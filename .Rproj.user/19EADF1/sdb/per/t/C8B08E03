@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1430499364361.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C8B08E03",
+    "lastKnownWriteTime" : 140286516789254,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "f.wide2",
+        "contentUrl" : "content?title=f.wide2&file=36b49e2f28d2429c80b7f3644c786b21.htm",
+        "displayedObservations" : "300",
+        "displayedVariables" : 4,
+        "totalObservations" : "300",
+        "variables" : "5"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

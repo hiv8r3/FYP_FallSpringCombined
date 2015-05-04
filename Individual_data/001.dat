@@ -1,0 +1,321 @@
+Block	Trial	FaceFilename	WordFilename	Race	Fix	WordValence	Condition	RT	Key	Error
+1	1		joy			2		4348	5	1
+1	2		garbage			1		1403	4	1
+1	3		sewage			1		892	4	1
+1	4		success			2		775	5	1
+1	5		sewage			1		922	4	1
+1	6		cockroach			1		1162	4	1
+1	7		vacation			2		891	5	1
+1	8		disgust			1		899	4	1
+1	9		vomit			1		782	4	1
+1	10		cockroach			1		818	4	1
+1	11		vomit			1		797	4	1
+1	12		love			2		706	5	1
+1	13		pest			1		792	4	1
+1	14		despair			1		718	4	1
+1	15		paradise			2		884	5	1
+1	16		beauty			2		748	5	1
+1	17		success			2		666	5	1
+1	18		smile			2		664	5	1
+1	19		disgust			1		802	4	1
+1	20		smile			2		1115	5	1
+1	21		pest			1		625	4	1
+1	22		romance			2		692	5	1
+1	23		love			2		567	5	1
+1	24		poison			1		751	4	1
+1	25		paradise			2		653	5	1
+1	26		romance			2		856	4	1
+1	27		vacation			2		1131	5	1
+1	28		poison			1		740	4	1
+1	29		joy			2		927	5	1
+1	30		beauty			2		911	5	1
+1	31		garbage			1		653	4	1
+1	32		despair			1		936	4	1
+2	1	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black8.jpg	paradise	1	forehead	2	112	889	5	1
+2	2	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black24.jpg	poison	1	forehead	1	111	898	4	1
+2	3	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White15.jpg	success	2	forehead	2	212	750	5	1
+2	4	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black16.jpg	disgust	1	nose	1	131	748	4	1
+2	5	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White19.jpg	vomit	2	forehead	1	211	1000	4	1
+2	6	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White17.jpg	cockroach	2	eyes	1	221	1049	4	1
+2	7	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black12.jpg	despair	1	eyes	1	121	773	4	1
+2	8	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White14.jpg	pest	2	nose	1	231	779	4	1
+2	9	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White24.jpg	vacation	2	eyes	2	222	921	5	1
+2	10	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White16.jpg	romance	2	forehead	2	212	728	5	1
+2	11	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White14.jpg	beauty	2	eyes	2	222	723	5	1
+2	12	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White11.jpg	vomit	2	forehead	1	211	588	4	1
+2	13	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black3.jpg	smile	1	forehead	2	112	578	5	1
+2	14	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White11.jpg	beauty	2	eyes	2	222	569	5	1
+2	15	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White24.jpg	pest	2	nose	1	231	948	4	1
+2	16	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White13.jpg	smile	2	forehead	2	212	677	5	1
+2	17	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black16.jpg	romance	1	eyes	2	122	510	5	1
+2	18	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White2.jpg	love	2	forehead	2	212	535	5	1
+2	19	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black4.jpg	disgust	1	forehead	1	111	555	4	1
+2	20	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White9.jpg	romance	2	eyes	2	222	606	5	1
+2	21	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White1.jpg	smile	2	nose	2	232	589	5	1
+2	22	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White2.jpg	despair	2	nose	1	231	741	4	1
+2	23	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White21.jpg	poison	2	forehead	1	211	721	4	1
+2	24	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White20.jpg	paradise	2	eyes	2	222	655	5	1
+2	25	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black15.jpg	smile	1	forehead	2	112	566	5	1
+2	26	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White22.jpg	vomit	2	nose	1	231	550	5	1
+2	27	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black3.jpg	smile	1	nose	2	132	1074	5	1
+2	28	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black21.jpg	smile	1	eyes	2	122	643	5	1
+2	29	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black22.jpg	paradise	1	eyes	2	122	633	5	1
+2	30	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White12.jpg	sewage	2	forehead	1	211	762	4	1
+2	31	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black13.jpg	paradise	1	eyes	2	122	600	5	1
+2	32	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White16.jpg	garbage	2	forehead	1	211	836	4	1
+2	33	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White12.jpg	disgust	2	nose	1	231	669	4	1
+2	34	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black1.jpg	paradise	1	forehead	2	112	1571	5	1
+2	35	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black23.jpg	joy	1	eyes	2	122	642	5	1
+2	36	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black1.jpg	despair	1	eyes	1	121	576	4	1
+2	37	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White3.jpg	disgust	2	forehead	1	211	582	4	1
+2	38	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black6.jpg	garbage	1	eyes	1	121	751	4	1
+2	39	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black2.jpg	vacation	1	eyes	2	122	635	5	1
+2	40	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black13.jpg	garbage	1	eyes	1	121	686	4	1
+2	41	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White23.jpg	success	2	eyes	2	222	516	5	1
+2	42	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White10.jpg	disgust	2	forehead	1	211	768	4	1
+2	43	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White2.jpg	paradise	2	eyes	2	222	681	5	1
+2	44	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black11.jpg	success	1	nose	2	132	594	5	1
+2	45	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White10.jpg	garbage	2	nose	1	231	651	4	1
+2	46	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black16.jpg	cockroach	1	eyes	1	121	622	4	1
+2	47	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White17.jpg	love	2	eyes	2	222	559	5	1
+2	48	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White19.jpg	romance	2	forehead	2	212	565	5	1
+2	49	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White8.jpg	beauty	2	forehead	2	212	556	5	1
+2	50	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black15.jpg	despair	1	eyes	1	121	557	4	1
+2	51	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black17.jpg	paradise	1	nose	2	132	539	5	1
+2	52	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White23.jpg	poison	2	forehead	1	211	593	4	1
+2	53	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black4.jpg	pest	1	eyes	1	121	717	4	1
+2	54	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black9.jpg	garbage	1	forehead	1	111	608	4	1
+2	55	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White7.jpg	poison	2	forehead	1	211	670	4	1
+2	56	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black10.jpg	beauty	1	nose	2	132	826	5	1
+2	57	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White16.jpg	joy	2	eyes	2	222	563	5	1
+2	58	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White7.jpg	disgust	2	eyes	1	221	777	4	1
+2	59	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White6.jpg	joy	2	eyes	2	222	522	5	1
+2	60	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black19.jpg	vacation	1	eyes	2	122	517	5	1
+2	61	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black23.jpg	cockroach	1	forehead	1	111	510	4	1
+2	62	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White18.jpg	beauty	2	eyes	2	222	541	5	1
+2	63	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black7.jpg	vacation	1	nose	2	132	475	5	1
+2	64	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black14.jpg	vacation	1	nose	2	132	604	5	1
+2	65	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black1.jpg	love	1	nose	2	132	514	5	1
+2	66	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black20.jpg	sewage	1	nose	1	131	736	4	1
+2	67	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White13.jpg	joy	2	eyes	2	222	521	5	1
+2	68	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black10.jpg	vacation	1	eyes	2	122	773	5	1
+2	69	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White4.jpg	romance	2	eyes	2	222	533	5	1
+2	70	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White11.jpg	paradise	2	nose	2	232	580	5	1
+2	71	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White2.jpg	pest	2	eyes	1	221	554	4	1
+2	72	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White6.jpg	poison	2	forehead	1	211	747	4	1
+2	73	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White18.jpg	despair	2	eyes	1	221	715	4	1
+2	74	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White4.jpg	smile	2	nose	2	232	508	5	1
+2	75	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White7.jpg	cockroach	2	nose	1	231	581	4	1
+2	76	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black7.jpg	poison	1	forehead	1	111	747	4	1
+2	77	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black14.jpg	vacation	1	forehead	2	112	583	5	1
+2	78	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black16.jpg	sewage	1	forehead	1	111	605	4	1
+2	79	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black22.jpg	pest	1	forehead	1	111	601	4	1
+2	80	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black17.jpg	poison	1	eyes	1	121	498	4	1
+2	81	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black19.jpg	vacation	1	nose	2	132	552	5	1
+2	82	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White6.jpg	vomit	2	eyes	1	221	681	4	1
+2	83	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black12.jpg	pest	1	forehead	1	111	532	4	1
+2	84	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White21.jpg	cockroach	2	eyes	1	221	501	4	1
+2	85	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black6.jpg	poison	1	forehead	1	111	553	4	1
+2	86	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White23.jpg	despair	2	nose	1	231	737	4	1
+2	87	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black24.jpg	vacation	1	forehead	2	112	573	5	1
+2	88	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black2.jpg	disgust	1	nose	1	131	547	4	1
+2	89	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White22.jpg	paradise	2	nose	2	232	756	5	1
+2	90	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White15.jpg	despair	2	eyes	1	221	589	4	1
+2	91	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White15.jpg	disgust	2	forehead	1	211	534	4	1
+2	92	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black7.jpg	sewage	1	eyes	1	121	612	4	1
+2	93	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black13.jpg	sewage	1	nose	1	131	578	4	1
+2	94	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White12.jpg	beauty	2	forehead	2	212	505	5	1
+2	95	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black12.jpg	vomit	1	nose	1	131	495	5	1
+2	96	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black1.jpg	vomit	1	forehead	1	111	962	4	1
+2	97	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White23.jpg	garbage	2	eyes	1	221	574	4	1
+2	98	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black11.jpg	disgust	1	nose	1	131	527	4	1
+2	99	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black5.jpg	vacation	1	eyes	2	122	685	5	1
+2	100	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black21.jpg	poison	1	forehead	1	111	574	4	1
+2	101	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black8.jpg	success	1	nose	2	132	788	5	1
+2	102	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black18.jpg	vomit	1	nose	1	131	629	4	1
+2	103	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White19.jpg	success	2	eyes	2	222	953	5	1
+2	104	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White22.jpg	cockroach	2	eyes	1	221	650	4	1
+2	105	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White13.jpg	cockroach	2	forehead	1	211	651	4	1
+2	106	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White21.jpg	vomit	2	nose	1	231	580	4	1
+2	107	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White24.jpg	sewage	2	forehead	1	211	682	4	1
+2	108	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White18.jpg	smile	2	forehead	2	212	747	5	1
+2	109	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black7.jpg	smile	1	eyes	2	122	516	5	1
+2	110	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black11.jpg	success	1	eyes	2	122	599	5	1
+2	111	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White7.jpg	success	2	nose	2	232	691	5	1
+2	112	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White10.jpg	joy	2	nose	2	232	590	5	1
+2	113	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black1.jpg	romance	1	eyes	2	122	594	5	1
+2	114	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White15.jpg	vomit	2	nose	1	231	683	4	1
+2	115	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black19.jpg	disgust	1	eyes	1	121	966	4	1
+2	116	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White3.jpg	garbage	2	eyes	1	221	970	4	1
+2	117	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White15.jpg	love	2	eyes	2	222	606	5	1
+2	118	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White5.jpg	beauty	2	nose	2	232	556	5	1
+2	119	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black4.jpg	romance	1	nose	2	132	639	5	1
+2	120	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black3.jpg	joy	1	eyes	2	122	494	5	1
+2	121	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black3.jpg	sewage	1	nose	1	131	663	4	1
+2	122	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White10.jpg	paradise	2	forehead	2	212	733	5	1
+2	123	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black20.jpg	paradise	1	nose	2	132	822	5	1
+2	124	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black24.jpg	romance	1	nose	2	132	639	5	1
+2	125	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black9.jpg	love	1	forehead	2	112	608	5	1
+2	126	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White5.jpg	sewage	2	eyes	1	221	524	4	1
+2	127	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black24.jpg	despair	1	eyes	1	121	602	4	1
+2	128	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black6.jpg	success	1	forehead	2	112	565	5	1
+2	129	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black17.jpg	pest	1	nose	1	131	582	4	1
+2	130	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black2.jpg	beauty	1	nose	2	132	604	5	1
+2	131	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black16.jpg	paradise	1	nose	2	132	635	5	1
+2	132	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White4.jpg	pest	2	forehead	1	211	612	4	1
+2	133	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White17.jpg	paradise	2	nose	2	232	562	5	1
+2	134	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black9.jpg	romance	1	nose	2	132	566	5	1
+2	135	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White11.jpg	pest	2	eyes	1	221	620	4	1
+2	136	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White14.jpg	poison	2	eyes	1	221	655	4	1
+2	137	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White12.jpg	love	2	eyes	2	222	710	5	1
+2	138	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black5.jpg	vomit	1	nose	1	131	615	4	1
+2	139	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black2.jpg	pest	1	forehead	1	111	837	4	1
+2	140	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White8.jpg	vacation	2	nose	2	232	766	5	1
+2	141	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White4.jpg	vacation	2	forehead	2	212	697	5	1
+2	142	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White23.jpg	joy	2	nose	2	232	960	5	1
+2	143	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White3.jpg	romance	2	eyes	2	222	611	5	1
+2	144	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White1.jpg	vomit	2	forehead	1	211	655	4	1
+2	145	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White5.jpg	garbage	2	forehead	1	211	937	4	1
+2	146	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White5.jpg	vomit	2	nose	1	231	519	4	1
+2	147	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black18.jpg	sewage	1	forehead	1	111	515	4	1
+2	148	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White1.jpg	sewage	2	nose	1	231	492	4	1
+2	149	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White6.jpg	sewage	2	nose	1	231	415	4	1
+2	150	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White14.jpg	romance	2	forehead	2	212	683	5	1
+2	151	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black6.jpg	beauty	1	eyes	2	122	550	5	1
+2	152	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black15.jpg	love	1	nose	2	132	519	5	1
+2	153	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White17.jpg	vacation	2	forehead	2	212	501	5	1
+2	154	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White5.jpg	paradise	2	forehead	2	212	587	5	1
+2	155	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black16.jpg	success	1	forehead	2	112	498	5	1
+2	156	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White6.jpg	love	2	forehead	2	212	789	5	1
+2	157	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black8.jpg	romance	1	eyes	2	122	502	5	1
+2	158	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White20.jpg	pest	2	forehead	1	211	580	4	1
+2	159	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White19.jpg	success	2	nose	2	232	525	5	1
+2	160	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White20.jpg	disgust	2	eyes	1	221	545	4	1
+2	161	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black15.jpg	beauty	1	eyes	2	122	591	5	1
+2	162	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White17.jpg	disgust	2	nose	1	231	504	4	1
+2	163	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White23.jpg	love	2	forehead	2	212	518	5	1
+2	164	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black23.jpg	beauty	1	forehead	2	112	495	5	1
+2	165	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White7.jpg	smile	2	forehead	2	212	645	5	1
+2	166	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black2.jpg	poison	1	eyes	1	121	537	4	1
+2	167	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black2.jpg	success	1	forehead	2	112	580	5	1
+2	168	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black15.jpg	vomit	1	forehead	1	111	490	4	1
+2	169	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White18.jpg	garbage	2	nose	1	231	499	4	1
+2	170	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White8.jpg	love	2	eyes	2	222	535	5	1
+2	171	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black8.jpg	despair	1	forehead	1	111	725	4	1
+2	172	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black4.jpg	garbage	1	nose	1	131	715	4	1
+2	173	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black5.jpg	cockroach	1	forehead	1	111	524	4	1
+2	174	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White20.jpg	romance	2	forehead	2	212	464	5	1
+2	175	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black12.jpg	joy	1	eyes	2	122	782	5	1
+2	176	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black10.jpg	poison	1	nose	1	131	588	4	1
+2	177	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White15.jpg	vacation	2	nose	2	232	613	5	1
+2	178	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White9.jpg	success	2	forehead	2	212	579	5	1
+2	179	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White24.jpg	romance	2	forehead	2	212	553	5	1
+2	180	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black21.jpg	vomit	1	eyes	1	121	640	4	1
+2	181	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White20.jpg	love	2	nose	2	232	523	5	1
+2	182	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black7.jpg	joy	1	forehead	2	112	551	5	1
+2	183	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White22.jpg	beauty	2	eyes	2	222	616	5	1
+2	184	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black14.jpg	poison	1	eyes	1	121	470	4	1
+2	185	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White24.jpg	disgust	2	eyes	1	221	487	4	1
+2	186	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White7.jpg	romance	2	eyes	2	222	730	5	1
+2	187	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White1.jpg	success	2	eyes	2	222	782	5	1
+2	188	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black5.jpg	paradise	1	forehead	2	112	668	5	1
+2	189	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White4.jpg	disgust	2	eyes	1	221	517	4	1
+2	190	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White16.jpg	sewage	2	nose	1	231	510	4	1
+2	191	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black20.jpg	romance	1	forehead	2	112	521	5	1
+2	192	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black19.jpg	despair	1	forehead	1	111	597	4	1
+2	193	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black17.jpg	smile	1	forehead	2	112	475	5	1
+2	194	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White18.jpg	pest	2	forehead	1	211	513	4	1
+2	195	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White20.jpg	despair	2	nose	1	231	543	4	1
+2	196	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White10.jpg	poison	2	eyes	1	221	654	4	1
+2	197	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black7.jpg	cockroach	1	nose	1	131	500	4	1
+2	198	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White22.jpg	garbage	2	forehead	1	211	490	4	1
+2	199	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black12.jpg	smile	1	forehead	2	112	622	5	1
+2	200	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black20.jpg	love	1	eyes	2	122	593	5	1
+2	201	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black15.jpg	pest	1	nose	1	131	586	4	1
+2	202	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black21.jpg	beauty	1	forehead	2	112	635	5	1
+2	203	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White13.jpg	vacation	2	nose	2	232	492	5	1
+2	204	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White14.jpg	paradise	2	nose	2	232	519	4	1
+2	205	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black3.jpg	garbage	1	forehead	1	111	654	4	1
+2	206	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White3.jpg	success	2	nose	2	232	625	5	1
+2	207	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black4.jpg	beauty	1	forehead	2	112	613	5	1
+2	208	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black10.jpg	cockroach	1	forehead	1	111	1363	4	1
+2	209	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black23.jpg	vomit	1	eyes	1	121	823	4	1
+2	210	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White16.jpg	cockroach	2	eyes	1	221	877	4	1
+2	211	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black8.jpg	disgust	1	eyes	1	121	782	4	1
+2	212	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black22.jpg	disgust	1	eyes	1	121	828	4	1
+2	213	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black9.jpg	smile	1	eyes	2	122	581	5	1
+2	214	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White4.jpg	cockroach	2	nose	1	231	617	4	1
+2	215	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White6.jpg	paradise	2	nose	2	232	631	5	1
+2	216	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black9.jpg	pest	1	nose	1	131	629	4	1
+2	217	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black14.jpg	poison	1	forehead	1	111	605	4	1
+2	218	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White21.jpg	joy	2	nose	2	232	462	5	1
+2	219	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White1.jpg	vacation	2	forehead	2	212	524	5	1
+2	220	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black6.jpg	love	1	nose	2	132	520	5	1
+2	221	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White5.jpg	joy	2	eyes	2	222	595	5	1
+2	222	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White21.jpg	vacation	2	forehead	2	212	610	5	1
+2	223	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black24.jpg	smile	1	eyes	2	122	464	5	1
+2	224	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black17.jpg	cockroach	1	forehead	1	111	635	4	1
+2	225	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black19.jpg	success	1	forehead	2	112	604	5	1
+2	226	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black22.jpg	garbage	1	nose	1	131	568	4	1
+2	227	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White21.jpg	beauty	2	eyes	2	222	513	5	1
+2	228	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black4.jpg	joy	1	eyes	2	122	476	5	1
+2	229	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black11.jpg	paradise	1	forehead	2	112	602	5	1
+2	230	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black23.jpg	success	1	nose	2	132	963	5	1
+2	231	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black18.jpg	beauty	1	eyes	2	122	532	5	1
+2	232	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White19.jpg	sewage	2	nose	1	231	611	4	1
+2	233	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White14.jpg	vomit	2	forehead	1	211	771	4	1
+2	234	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black13.jpg	beauty	1	nose	2	132	639	5	1
+2	235	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black5.jpg	love	1	nose	2	132	517	5	1
+2	236	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White9.jpg	cockroach	2	nose	1	231	606	4	1
+2	237	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black23.jpg	sewage	1	nose	1	131	602	4	1
+2	238	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White19.jpg	sewage	2	eyes	1	221	536	4	1
+2	239	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black14.jpg	joy	1	eyes	2	122	502	5	1
+2	240	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black10.jpg	vomit	1	eyes	1	121	572	4	1
+2	241	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White9.jpg	sewage	2	forehead	1	211	624	4	1
+2	242	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black13.jpg	cockroach	1	forehead	1	111	622	4	1
+2	243	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black6.jpg	vomit	1	nose	1	131	527	4	1
+2	244	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black24.jpg	pest	1	nose	1	131	557	4	1
+2	245	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black13.jpg	romance	1	forehead	2	112	542	5	1
+2	246	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black9.jpg	disgust	1	eyes	1	121	623	4	1
+2	247	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White2.jpg	beauty	2	nose	2	232	621	5	1
+2	248	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black20.jpg	cockroach	1	eyes	1	121	622	4	1
+2	249	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black21.jpg	garbage	1	nose	1	131	543	4	1
+2	250	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White11.jpg	despair	2	nose	1	231	509	4	1
+2	251	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White18.jpg	joy	2	nose	2	232	491	5	1
+2	252	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White16.jpg	smile	2	nose	2	232	543	5	1
+2	253	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White17.jpg	poison	2	forehead	1	211	717	4	1
+2	254	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White3.jpg	joy	2	forehead	2	212	593	5	1
+2	255	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black18.jpg	garbage	1	eyes	1	121	569	4	1
+2	256	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black8.jpg	pest	1	nose	1	131	576	4	1
+2	257	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White2.jpg	cockroach	2	forehead	1	211	614	4	1
+2	258	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black1.jpg	sewage	1	nose	1	131	535	4	1
+2	259	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black20.jpg	disgust	1	forehead	1	111	648	4	1
+2	260	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black11.jpg	sewage	1	eyes	1	121	550	4	1
+2	261	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White3.jpg	despair	2	nose	1	231	519	4	1
+2	262	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black19.jpg	despair	1	nose	1	131	563	4	1
+2	263	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black10.jpg	joy	1	forehead	2	112	614	5	1
+2	264	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White8.jpg	despair	2	forehead	1	211	612	4	1
+2	265	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black5.jpg	despair	1	eyes	1	121	595	4	1
+2	266	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black18.jpg	romance	1	nose	2	132	683	5	1
+2	267	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black17.jpg	love	1	eyes	2	122	596	5	1
+2	268	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White12.jpg	success	2	nose	2	232	704	5	1
+2	269	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black14.jpg	garbage	1	nose	1	131	734	4	1
+2	270	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black21.jpg	success	1	nose	2	132	682	5	1
+2	271	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White24.jpg	smile	2	nose	2	232	693	5	1
+2	272	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White13.jpg	poison	2	eyes	1	221	753	4	1
+2	273	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black12.jpg	love	1	nose	2	132	714	5	1
+2	274	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White11.jpg	love	2	forehead	2	212	651	5	1
+2	275	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White1.jpg	poison	2	eyes	1	221	590	4	1
+2	276	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White8.jpg	pest	2	eyes	1	221	679	4	1
+2	277	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White10.jpg	smile	2	eyes	2	222	627	5	1
+2	278	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White8.jpg	garbage	2	nose	1	231	564	4	1
+2	279	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White12.jpg	pest	2	eyes	1	221	551	4	1
+2	280	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White13.jpg	garbage	2	nose	1	231	632	4	1
+2	281	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White9.jpg	vacation	2	nose	2	232	566	5	1
+2	282	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White22.jpg	smile	2	forehead	2	212	583	5	1
+2	283	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black18.jpg	joy	1	forehead	2	112	621	5	1
+2	284	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black11.jpg	despair	1	forehead	1	111	598	4	1
+2	285	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black22.jpg	love	1	nose	2	132	786	5	1
+2	286	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black3.jpg	cockroach	1	eyes	1	121	621	4	1
+2	287	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\Black22.jpg	joy	1	forehead	2	112	732	5	1
+2	288	C:\Experiments\Bartholow Lab\Hannah Volpert\stimuli\White9.jpg	despair	2	eyes	1	221	978	4	1

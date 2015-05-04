@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1430498856729.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9027D297",
+    "lastKnownWriteTime" : 7453010373578546944,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "f.wide.fore",
+        "contentUrl" : "content?title=f.wide.fore&file=5bac7ff19b074791b99767ced3b349fd.htm",
+        "displayedObservations" : 100,
+        "displayedVariables" : 6,
+        "totalObservations" : 100,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

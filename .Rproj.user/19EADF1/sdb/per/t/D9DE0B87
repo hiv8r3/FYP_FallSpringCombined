@@ -1,0 +1,17 @@
+{
+    "contents" : "# Combine data from spring and from fall\n\n# read in data\nspring = read.delim(\"logTransformed_data.txt\")\nfall = read.delim(\"Fall_Block2Reorganized_log_winz.txt\")\n\n# add column specifying which term the data were collected in\nspring$Term = \"spring\"\nfall$Term = \"fall\"\n\n# combine the two datasets\n\ndat = rbind(fall, spring)\n\nwrite.table(dat, \"TotalCombinedDat.txt\", sep=\"\\t\", row.names=F)\n",
+    "created" : 1430497170542.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1260735452",
+    "id" : "D9DE0B87",
+    "lastKnownWriteTime" : 1430417691,
+    "path" : "~/Documents/Projects/FYP/Data_spring2015/Combine_dat.R",
+    "project_path" : "Combine_dat.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
