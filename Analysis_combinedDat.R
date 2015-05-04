@@ -27,7 +27,7 @@ f.wide$Subno = as.factor(f.wide$Subno)
 int <- aov(logRT.mean ~ (Fix*FaceRace*WordValence)+Error(Subno/(Fix*FaceRace*WordValence)), data = f.wide)
 summary(int)  #displays Type 1 ANOVA, will be different from Type 3 ANOVA when unbalanced design
 
-sink("FallANOVA_PrimingBlock.txt", append=F)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=F)
 "ANOVA of fall data (5.1.2015)"
 "Code in Analysis_combinedDat.R"
 "Doesn't include two bad subjects or fast trials (<50 ms)"
@@ -44,7 +44,7 @@ f.wide.eyes = f.wide[f.wide$Fix == "eyes",]
 int.eyes <- aov(logRT.mean ~ (FaceRace*WordValence)+Error(Subno/(FaceRace*WordValence)), data = f.wide.eyes)
 summary(int.eyes)
 
-sink("FallANOVA_PrimingBlock.txt", append=T)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=T)
 "------------------------------------------------------------------"
 "Specific contrast: (FaceRace x WordValence with Eyes condition)"
 summary(int.eyes)
@@ -56,7 +56,7 @@ f.wide.fore = f.wide[f.wide$Fix == "forehead",]
 int.fore <- aov(logRT.mean ~ (FaceRace*WordValence)+Error(Subno/(FaceRace*WordValence)), data = f.wide.fore)
 summary(int.fore)
 
-sink("FallANOVA_PrimingBlock.txt", append=T)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=T)
 "------------------------------------------------------------------"
 "Specific contrast: (FaceRace x WordValence with Forehead condition)"
 summary(int.fore)
@@ -68,7 +68,7 @@ f.wide.nose = f.wide[f.wide$Fix == "nose",]
 int.nose <- aov(logRT.mean ~ (FaceRace*WordValence)+Error(Subno/(FaceRace*WordValence)), data = f.wide.nose)
 summary(int.nose)
 
-sink("FallANOVA_PrimingBlock.txt", append=T)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=T)
 "------------------------------------------------------------------"
 "Specific contrast: (FaceRace x WordValence with Nose condition)"
 summary(int.nose)
@@ -92,7 +92,7 @@ f.wide2$Subno = as.factor(f.wide2$Subno)
 int <- aov(logRT.mean ~ (Fix*Congruent)+Error(Subno/(Fix*Congruent)), data = f.wide2)
 summary(int)  #displays Type 1 ANOVA, will be different from Type 3 ANOVA when unbalanced design
 
-sink("FallANOVA_PrimingBlock.txt", append=T)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=T)
 "------------------------------------------------------------------"
 "------------------------------------------------------------------"
 "OMNIBUS (Congruent x Fix)"
@@ -107,7 +107,7 @@ f.wide2.eyes = f.wide2[f.wide2$Fix == "eyes",]
 int2.eyes <- aov(logRT.mean ~ (Congruent)+Error(Subno/(Congruent)), data = f.wide2.eyes)
 summary(int2.eyes)
 
-sink("FallANOVA_PrimingBlock.txt", append=T)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=T)
 "------------------------------------------------------------------"
 "Specific contrast: (Congruent within Eyes condition)"
 summary(int2.eyes)
@@ -119,7 +119,7 @@ f.wide2.fore = f.wide2[f.wide2$Fix == "forehead",]
 int2.fore <- aov(logRT.mean ~ (Congruent)+Error(Subno/(Congruent)), data = f.wide2.fore)
 summary(int2.fore)
 
-sink("FallANOVA_PrimingBlock.txt", append=T)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=T)
 "------------------------------------------------------------------"
 "Specific contrast: (Congruent within Forehead condition)"
 summary(int2.fore)
@@ -131,7 +131,7 @@ f.wide2.nose = f.wide2[f.wide2$Fix == "nose",]
 int2.nose <- aov(logRT.mean ~ (Congruent)+Error(Subno/(Congruent)), data = f.wide2.nose)
 summary(int2.nose)
 
-sink("FallANOVA_PrimingBlock.txt", append=T)
+sink("FallANOVA_PrimingBlockAnalysis.txt", append=T)
 "------------------------------------------------------------------"
 "Specific contrast: (Congruent within Nose condition)"
 summary(int2.nose)

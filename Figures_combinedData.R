@@ -23,10 +23,12 @@ apatheme=theme_bw()+
 
 formatting = theme_bw(base_size = 16) + 
   theme(axis.text.x = element_text(size = 16),
+        axis.title = element_text(face = "bold"),
         plot.title = element_text(vjust = 1.5, size = 16))
 
 
 # (1) FaceRace x WordValence x Fix: all subjects (minus bad) together, correct trials
+# Used this for SPAM presentation
 ggplot(corFall, aes(FaceRace, RT, fill = WordValence)) +
   stat_summary(fun.y = mean, geom = "bar", position = "dodge") +
   stat_summary(fun.data = mean_cl_normal, geom = "errorbar", position = position_dodge(width=.9), width = .2) +
@@ -35,7 +37,7 @@ ggplot(corFall, aes(FaceRace, RT, fill = WordValence)) +
   formatting +
   scale_fill_manual("WordValence", values = c("Neg" = "brown", "Pos" = "lightblue")) +
   ggtitle("FaceRace x WordValence x Fix (correct trials, raw RT): Fall")
-ggsave("./Figures/For SPAM presentation/FaceRace x WordVal x Fix_Fall.wmf")
+ggsave("./Figures/For SPAM presentation/FaceRace x WordVal x Fix_Fall.tiff", width = 9, height = 6)
 
 # logRT (correct)
 ggplot(corFall, aes(FaceRace, logRT, fill = WordValence)) +
@@ -49,7 +51,7 @@ ggplot(corFall, aes(FaceRace, logRT, fill = WordValence)) +
 
 
 # (2) Congruence x Fix: all subjects (minus bad) together, correct trials
-# USE THIS
+# Used this for SPAM presentation
 ggplot(corFall, aes(Fix, RT, fill = Congruent)) +
   stat_summary(fun.y = mean, geom = "bar", position = "dodge", bar_width = .1) +
   stat_summary(fun.data = mean_cl_normal, geom = "errorbar", position = position_dodge(width=.9), width = .2) +
@@ -59,7 +61,7 @@ ggplot(corFall, aes(Fix, RT, fill = Congruent)) +
   theme(plot.title = element_blank()) +
   scale_fill_manual("Congruent", values = c("Con" = "darkgreen", "Incon" = "plum")) +
   ggtitle("Congruent x Fix (correct trials, raw RT): Fall")
-ggsave("./Figures/For SPAM presentation/Congruent x Fix_Fall.wmf")
+ggsave("./Figures/For SPAM presentation/Congruent x Fix_Fall.tiff", width = 7, height = 6)
 
 # logRT (correct)
 ggplot(corFall, aes(Fix, logRT, fill = Congruent)) +
@@ -69,6 +71,14 @@ ggplot(corFall, aes(Fix, logRT, fill = Congruent)) +
   formatting +
   scale_fill_manual("Congruent", values = c("Con" = "darkgreen", "Incon" = "plum")) +
   ggtitle("Congruent x Fix (correct trials, logRT): Fall")
+
+
+
+
+
+
+
+
 
 
 
