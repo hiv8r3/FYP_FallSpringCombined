@@ -1,0 +1,26 @@
+[1] "ANOVA of fall data (9.2.2015)"
+[1] "Code in Analysis_combinedDat.R"
+[1] "Doesn't include two bad subjects or fast trials (<50 ms)"
+[1] "Analysis done with log transformed RTs"
+[1] "Only includes eye and forehead conditions"
+[1] "------------------------------------------------------------------"
+[1] "OMNIBUS (Fix x Congruent)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  3.713  0.1547               
+
+Error: Subno:Fix
+          Df  Sum Sq  Mean Sq F value Pr(>F)
+Fix        1 0.00046 0.000463   0.133  0.719
+Residuals 24 0.08374 0.003489               
+
+Error: Subno:Congruent
+          Df  Sum Sq   Mean Sq F value Pr(>F)
+Congruent  1 0.00006 0.0000573   0.026  0.872
+Residuals 24 0.05225 0.0021772               
+
+Error: Subno:Fix:Congruent
+              Df  Sum Sq   Mean Sq F value Pr(>F)
+Fix:Congruent  1 0.00013 0.0001262   0.049  0.827
+Residuals     24 0.06184 0.0025768               

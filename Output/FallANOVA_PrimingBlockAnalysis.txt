@@ -1,0 +1,173 @@
+P[1] "ANOVA of fall data (5.1.2015)"
+[1] "Code in Analysis_combinedDat.R"
+[1] "Doesn't include two bad subjects or fast trials (<50 ms)"
+[1] "Analysis done with log transformed RTs"
+[1] "------------------------------------------------------------------"
+[1] "OMNIBUS (FaceRace x WordValence x Fix)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  12.04  0.5017               
+
+Error: Subno:Fix
+          Df Sum Sq  Mean Sq F value Pr(>F)  
+Fix        2 0.0599 0.029971   3.354 0.0433 *
+Residuals 48 0.4289 0.008936                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:FaceRace
+          Df  Sum Sq Mean Sq F value  Pr(>F)   
+FaceRace   1 0.05724 0.05724   10.47 0.00352 **
+Residuals 24 0.13116 0.00547                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:WordValence
+            Df Sum Sq Mean Sq F value Pr(>F)
+WordValence  1 0.0265 0.02650   0.939  0.342
+Residuals   24 0.6772 0.02822               
+
+Error: Subno:Fix:FaceRace
+             Df  Sum Sq  Mean Sq F value Pr(>F)
+Fix:FaceRace  2 0.01867 0.009333    1.43  0.249
+Residuals    48 0.31327 0.006526               
+
+Error: Subno:Fix:WordValence
+                Df  Sum Sq  Mean Sq F value Pr(>F)
+Fix:WordValence  2 0.02891 0.014453   2.296  0.112
+Residuals       48 0.30221 0.006296               
+
+Error: Subno:FaceRace:WordValence
+                     Df  Sum Sq  Mean Sq F value Pr(>F)
+FaceRace:WordValence  1 0.00011 0.000113   0.019  0.893
+Residuals            24 0.14701 0.006126               
+
+Error: Subno:Fix:FaceRace:WordValence
+                         Df  Sum Sq  Mean Sq F value Pr(>F)
+Fix:FaceRace:WordValence  2 0.00023 0.000116   0.022  0.978
+Residuals                48 0.25085 0.005226               
+[1] "------------------------------------------------------------------"
+[1] "Specific contrast: (FaceRace x WordValence with Eyes condition)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  3.527  0.1469               
+
+Error: Subno:FaceRace
+          Df  Sum Sq  Mean Sq F value Pr(>F)
+FaceRace   1 0.02031 0.020310   2.868  0.103
+Residuals 24 0.16998 0.007083               
+
+Error: Subno:WordValence
+            Df  Sum Sq Mean Sq F value Pr(>F)  
+WordValence  1 0.04499 0.04499    4.36 0.0476 *
+Residuals   24 0.24764 0.01032                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:FaceRace:WordValence
+                     Df  Sum Sq  Mean Sq F value Pr(>F)
+FaceRace:WordValence  1 0.00034 0.000341   0.057  0.813
+Residuals            24 0.14284 0.005952               
+[1] "------------------------------------------------------------------"
+[1] "Specific contrast: (FaceRace x WordValence with Forehead condition)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  4.047  0.1686               
+
+Error: Subno:FaceRace
+          Df  Sum Sq Mean Sq F value  Pr(>F)   
+FaceRace   1 0.05404 0.05404   8.863 0.00655 **
+Residuals 24 0.14633 0.00610                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:WordValence
+            Df Sum Sq Mean Sq F value Pr(>F)
+WordValence  1 0.0096 0.00962   0.665  0.423
+Residuals   24 0.3472 0.01447               
+
+Error: Subno:FaceRace:WordValence
+                     Df  Sum Sq  Mean Sq F value Pr(>F)
+FaceRace:WordValence  1 0.00000 0.000003   0.001  0.978
+Residuals            24 0.08462 0.003526               
+[1] "------------------------------------------------------------------"
+[1] "Specific contrast: (FaceRace x WordValence with Nose condition)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  4.897  0.2041               
+
+Error: Subno:FaceRace
+          Df  Sum Sq  Mean Sq F value Pr(>F)
+FaceRace   1 0.00155 0.001552   0.291  0.595
+Residuals 24 0.12812 0.005338               
+
+Error: Subno:WordValence
+            Df Sum Sq  Mean Sq F value Pr(>F)
+WordValence  1 0.0008 0.000797    0.05  0.825
+Residuals   24 0.3846 0.016024               
+
+Error: Subno:FaceRace:WordValence
+                     Df Sum Sq Mean Sq F value Pr(>F)
+FaceRace:WordValence  1 0.0000 3.0e-06       0  0.984
+Residuals            24 0.1704 7.1e-03               
+[1] "------------------------------------------------------------------"
+[1] "------------------------------------------------------------------"
+[1] "OMNIBUS (Congruent x Fix)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  6.032  0.2513               
+
+Error: Subno:Fix
+          Df  Sum Sq  Mean Sq F value Pr(>F)  
+Fix        2 0.02923 0.014616   3.297 0.0455 *
+Residuals 48 0.21278 0.004433                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:Congruent
+          Df  Sum Sq   Mean Sq F value Pr(>F)
+Congruent  1 0.00005 0.0000516   0.017  0.899
+Residuals 24 0.07503 0.0031261               
+
+Error: Subno:Fix:Congruent
+              Df  Sum Sq   Mean Sq F value Pr(>F)
+Fix:Congruent  2 0.00013 0.0000674   0.026  0.974
+Residuals     48 0.12440 0.0025916               
+[1] "------------------------------------------------------------------"
+[1] "Specific contrast: (Congruent within Eyes condition)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  1.764 0.07349               
+
+Error: Subno:Congruent
+          Df  Sum Sq   Mean Sq F value Pr(>F)
+Congruent  1 0.00018 0.0001768   0.059   0.81
+Residuals 24 0.07156 0.0029818               
+[1] "------------------------------------------------------------------"
+[1] "Specific contrast: (Congruent within Forehead condition)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  2.033 0.08469               
+
+Error: Subno:Congruent
+          Df  Sum Sq   Mean Sq F value Pr(>F)
+Congruent  1 0.00001 0.0000067   0.004  0.951
+Residuals 24 0.04253 0.0017722               
+[1] "------------------------------------------------------------------"
+[1] "Specific contrast: (Congruent within Nose condition)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 24  2.448   0.102               
+
+Error: Subno:Congruent
+          Df  Sum Sq  Mean Sq F value Pr(>F)
+Congruent  1 0.00000 0.000003   0.001  0.977
+Residuals 24 0.08533 0.003555               

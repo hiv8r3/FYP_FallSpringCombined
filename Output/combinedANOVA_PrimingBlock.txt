@@ -1,0 +1,93 @@
+[1] "ANOVA of spring and fall data together (5.4.2015)"
+[1] "Code in Analysis_combinedDat.R"
+[1] "Includes all subjects for Spring, eliminates bad subjects and fast trials for Fall"
+[1] "Analysis done on log transformed RTs"
+[1] "------------------------------------------------------------------"
+[1] "OMNIBUS (Fix x Congruent x Term)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value   Pr(>F)    
+Term       1  2.872  2.8716   22.57 9.38e-06 ***
+Residuals 76  9.670  0.1272                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:Fix
+           Df  Sum Sq  Mean Sq F value   Pr(>F)    
+Fix         2 0.00538 0.002690   1.433 0.241707    
+Fix:Term    2 0.02776 0.013878   7.394 0.000862 ***
+Residuals 152 0.28530 0.001877                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:Congruent
+               Df  Sum Sq   Mean Sq F value Pr(>F)
+Congruent       1 0.00000 0.0000001   0.000  0.993
+Congruent:Term  1 0.00007 0.0000718   0.044  0.834
+Residuals      76 0.12403 0.0016320               
+
+Error: Subno:Fix:Congruent
+                    Df  Sum Sq   Mean Sq F value Pr(>F)
+Fix:Congruent        2 0.00098 0.0004886   0.358  0.700
+Fix:Congruent:Term   2 0.00045 0.0002232   0.164  0.849
+Residuals          152 0.20739 0.0013644               
+[1] "------------------------------------------------------------------"
+[1] "------------------------------------------------------------------"
+[1] "OMNIBUS (Fix x FaceRace x WordValence x Term)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value   Pr(>F)    
+Term       1  5.742   5.742   22.59 9.29e-06 ***
+Residuals 76 19.319   0.254                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:Fix
+           Df Sum Sq  Mean Sq F value   Pr(>F)    
+Fix         2 0.0112 0.005582   1.478 0.231282    
+Fix:Term    2 0.0566 0.028294   7.493 0.000788 ***
+Residuals 152 0.5740 0.003776                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:WordValence
+                 Df Sum Sq Mean Sq F value   Pr(>F)    
+WordValence       1 0.2304 0.23040  17.104 9.04e-05 ***
+WordValence:Term  1 0.0175 0.01747   1.297    0.258    
+Residuals        76 1.0238 0.01347                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:FaceRace
+              Df  Sum Sq Mean Sq F value   Pr(>F)    
+FaceRace       1 0.00487 0.00487    1.87    0.176    
+FaceRace:Term  1 0.05872 0.05872   22.55 9.42e-06 ***
+Residuals     76 0.19784 0.00260                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:Fix:WordValence
+                      Df Sum Sq  Mean Sq F value Pr(>F)  
+Fix:WordValence        2 0.0130 0.006513   2.230 0.1110  
+Fix:WordValence:Term   2 0.0164 0.008193   2.806 0.0636 .
+Residuals            152 0.4439 0.002920                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:Fix:FaceRace
+                   Df Sum Sq  Mean Sq F value Pr(>F)
+Fix:FaceRace        2 0.0145 0.007238   2.209  0.113
+Fix:FaceRace:Term   2 0.0071 0.003534   1.078  0.343
+Residuals         152 0.4981 0.003277               
+
+Error: Subno:WordValence:FaceRace
+                          Df  Sum Sq  Mean Sq F value Pr(>F)
+FaceRace:WordValence       1 0.00000 0.000001   0.000  0.989
+FaceRace:WordValence:Term  1 0.00015 0.000154   0.048  0.828
+Residuals                 76 0.24503 0.003224               
+
+Error: Subno:Fix:WordValence:FaceRace
+                               Df Sum Sq   Mean Sq F value Pr(>F)
+Fix:FaceRace:WordValence        2 0.0020 0.0010067   0.367  0.693
+Fix:FaceRace:WordValence:Term   2 0.0008 0.0003985   0.145  0.865
+Residuals                     152 0.4168 0.0027424               

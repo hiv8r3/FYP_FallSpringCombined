@@ -54,7 +54,7 @@ Winsorized_data.txt
 # 8. Combine Fall and Spring data
 >> Combine_dat.R
 # n = 25 for spring (2 subs discarded as bad subjects because of fast RT, high error rates)
-# n = 54 for fall
+# n = 53 for fall (1 sub didn't complete)
 # includes raw RT, logRT, logRT.winz, RT.winz
 # all trial information plus which term it was collected in
 # Outputs:
@@ -66,3 +66,15 @@ Winsorized_data.txt
 # 10. Do analysis for spring and fall data
 >> Analysis_combinedDat.R
 # Takes "TotalCombinedDat.txt"
+# Runs omnibus ANOVAs separately for fall and spring and then combined data
+# Outputs to the following files in Output folder:
+"FallANOVA_PrimingBlockAnalysis.txt"
+"SpringANOVA_PrimingBlockAnalysis.txt"
+"combinedANOVA_PrimingBlock.txt"
+
+# 11. Do specific contrasts for spring and fall data
+>> AnalysisContrasts_combinedData.R
+
+# 12. Do analyses for master's proposal (just eye and forehead conditions)
+>> MastersAnalyses.R
+# Didn't really do much honestly. Most analyses had already been done. 

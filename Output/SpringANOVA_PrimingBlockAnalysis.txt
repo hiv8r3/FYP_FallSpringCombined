@@ -1,0 +1,50 @@
+[1] "ANOVA of spring data (5.1.2015)"
+[1] "Code in Analysis_combinedDat.R"
+[1] "Includes all subjects, analysis done on log transformed RTs"
+[1] "------------------------------------------------------------------"
+[1] "OMNIBUS (FaceRace x WordValence x Fix)"
+
+Error: Subno
+          Df Sum Sq Mean Sq F value Pr(>F)
+Residuals 52  7.277  0.1399               
+
+Error: Subno:Fix
+           Df  Sum Sq  Mean Sq F value Pr(>F)  
+Fix         2 0.00781 0.003906   2.801 0.0654 .
+Residuals 104 0.14504 0.001395                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:FaceRace
+          Df  Sum Sq  Mean Sq F value Pr(>F)  
+FaceRace   1 0.00635 0.006348   4.951 0.0304 *
+Residuals 52 0.06668 0.001282                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:WordValence
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+WordValence  1 0.2214 0.22138   33.22 4.54e-07 ***
+Residuals   52 0.3466 0.00666                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Error: Subno:Fix:FaceRace
+              Df  Sum Sq  Mean Sq F value Pr(>F)
+Fix:FaceRace   2 0.00288 0.001438   0.809  0.448
+Residuals    104 0.18486 0.001778               
+
+Error: Subno:Fix:WordValence
+                 Df  Sum Sq   Mean Sq F value Pr(>F)
+Fix:WordValence   2 0.00051 0.0002532   0.186  0.831
+Residuals       104 0.14165 0.0013620               
+
+Error: Subno:FaceRace:WordValence
+                     Df  Sum Sq   Mean Sq F value Pr(>F)
+FaceRace:WordValence  1 0.00004 0.0000407   0.022  0.884
+Residuals            52 0.09801 0.0018849               
+
+Error: Subno:Fix:FaceRace:WordValence
+                          Df  Sum Sq  Mean Sq F value Pr(>F)
+Fix:FaceRace:WordValence   2 0.00258 0.001289   0.807  0.449
+Residuals                104 0.16599 0.001596               
